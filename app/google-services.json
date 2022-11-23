@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083250424432",
+    "project_id": "uta-ddae6",
+    "storage_bucket": "uta-ddae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083250424432:android:10c9b6acd433d07b7112b5",
+        "android_client_info": {
+          "package_name": "com.example.uta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083250424432-gg0rmbcut5v68d34potu6i9tb7k8nlg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IKCWcLIDFhwOuUXI72dhXrS2zkusdTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083250424432-gg0rmbcut5v68d34potu6i9tb7k8nlg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <include
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/toolbar_layout"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Students List"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_student_list" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Book Slot for Medical Test"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_book_slot" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="My Profile"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_profile" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Report Incident"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_report_fire_incident" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Generate Entry Pass Code"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_generate_entrypass" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="View FAQ"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_faq" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Helpline"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_imergency_help" />
+
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="logout"
+            android:layout_marginTop="10dp"
+            android:id="@+id/btn_signout" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SecureUTA</string>
+    <string name="help_line_number">EMERGENCY : 911\nPOLICE : 911\nAMBULANCE : 911\nFIRE : 911</string>
+    <string-array name="help_line_names">
+        <item>EMERGENCY</item>
+        <item>POLICE</item>
+        <item>AMBULANCE</item>
+        <item>FIRE</item>
+    </string-array>
+    <string-array name="help_line_values">
+        <item>911</item>
+        <item>911</item>
+        <item>911</item>
+        <item>911</item>
+    </string-array>
+    <string name="default_notification_channel_id">default_notification</string>
+
+    <string-array name="faq_list">
+        <item>1. How to book medical test appointment?</item>
+        <item>User can book the slot for medical test like Covid, TB, flu. Option is provided in the Dashboard</item>
+        <item>2. How to receive Entry Pass Code?</item>
+        <item>User can generate his Gate Entry pass code by single click only. This option is also available on Dahsboard</item>
+        <item>3. How to report fire incident?</item>
+        <item>First Click on Report Fire Incident. The fill the details and click submit. The Fire Security Services will be notified.</item>
+        <item>4. How to edit profile details?</item>
+        <item>User can view/modify his/her profile in MyProfile section.</item>
+        <item>5. How to reset password?</item>
+        <item>If You forgot your password then you can click on forgot password at the login screen? Then in  next screen put your email address linked to your account. and click on submit. A password Reset Link will be sent to your email address. Reset your password with the thelp of that link and again you can login with your new password.</item>
+    </string-array>
+
+    <string-array name="medical_tests">
+        <item>COVID</item>
+        <item>FLU</item>
+        <item>TB</item>
+    </string-array>
+
+    <string-array name="days_of_month">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+</resources>
